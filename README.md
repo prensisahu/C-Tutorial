@@ -1,1 +1,1 @@
-This Project Is Learn To C Sharp.
+In this project we will learn C Sharp.
